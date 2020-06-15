@@ -1,0 +1,6 @@
+name: Template
+version: ${project.version}
+main: com.plugin.Main
+api-version: 1.13
+
+commands:
